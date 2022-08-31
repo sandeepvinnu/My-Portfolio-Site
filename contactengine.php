@@ -10,7 +10,7 @@ $Message = Trim(stripslashes($_POST['Message']));     //getting message from htm
 // validation
 $validationOK=true;
 if (!$validationOK) {
-  print "<meta http-equiv=\"refresh\" content=\"0;URL=error.htm\">";
+  print "<meta http-equiv=\"refresh\" content=\"0;URL=error.html\">";
   exit;
 }
 
