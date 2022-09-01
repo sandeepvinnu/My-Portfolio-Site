@@ -1,39 +1,23 @@
 <?php
+    $Name = $_POST['Name'];    //getting name from html page
+    $Email = $_POST['Email'];     //getting email from html page
+    $Message = $_POST['Message'];     //getting message from html page
 
-$EmailFrom = "sandeepvinnu852@gmail.com";   //your first email from where you want to send email
-$EmailTo = "sunkumar.grace@gmail.com";   //your second email where you want to receive contact form content
-$Subject = $_POST['Name']." Contacted you from your portfolio site";  //mail subject
-$Name = Trim(stripslashes($_POST['Name']));    //getting name from html page
-$Email = Trim(stripslashes($_POST['Email']));     //getting email from html page
-$Message = Trim(stripslashes($_POST['Message']));     //getting message from html page
 
-// validation
-$validationOK=true;
-if (!$validationOK) {
-  print "<meta http-equiv=\"refresh\" content=\"0;URL=error.htm\">";
-  exit;
-}
+    $EmailFrom = "sandeepvinnu852@gmail.com";   //your first email from where you want to send email
+    $Subject = $_POST['Name']." Contacted you from your portfolio site";  //mail subject
+    
+    // prepare email body text
+    $Body = "Name: $Name.\n".
+              "Eamil: $Email.\n".
+                "Message: $Message.\n";            
+    
+    $EmailTo = "sunkumar.grace@gmail.com";   //your second email where you want to receive contact form content
+    $headers = "From: $EmailFrom \r\n";
+    $headers .= "Reply-To: $Email \r\n";
 
-// prepare email body text
-$Body = "";
-$Body .= "Name: ";
-$Body .= $Name;
-$Body .= "\n";
-$Body .= "Email: ";
-$Body .= $Email;
-$Body .= "\n";
-$Body .= "Message: ";
-$Body .= $Message;
-$Body .= "\n";
+    mail($EmailTo, $Subject, $Body, $headers);
 
-// send email 
-$success = mail($EmailTo, $Subject, $Body, "From:" . $EmailFrom);
+    header("Location: index.html");
 
-// redirect to success page 
-if ($success){
-  print "<meta http-equiv=\"refresh\" content=\"0;URL=index.html\">";
-}
-else{
-  print "<meta http-equiv=\"refresh\" content=\"0;URL=error.htm\">";
-}
 ?>
