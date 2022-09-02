@@ -173,7 +173,7 @@ section
 {
     position: relative;
     min-height: 100vh;
-    background: linear-gradient(rgb(255, 246, 124), rgb(255, 204, 93));
+/*     background: ; */
     background-size: cover;
     background-position: top left;
     display: flex;
