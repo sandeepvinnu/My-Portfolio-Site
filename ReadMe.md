@@ -29,7 +29,7 @@ I am Sandeep Kumar, born and bought up Andhra pradesh. I have done my schooling 
 
 <br/>
 
-[![Sandeep - Portfolio site template live demo](img/live-demo.png)](https://Sandeep-particle.netlify.app/)
+[![Sandeep - Portfolio site template live demo](img/live-demo.png)](https://sandeepkumarportfolio.netlify.app/)
 
 <br/>
 <br/>
@@ -53,6 +53,10 @@ I am Sandeep Kumar, born and bought up Andhra pradesh. I have done my schooling 
 - Free icons by fontawesome.
 - Free icons by Devicons.
 - Free icons by Bootstrap.
+
+## Video Used 🥑🌴
+1) [mixkit](https://mixkit.co/free-stock-video/bubbles-of-water-rising-to-the-surface-186/)
+
 
 <br/>
 <br/>
