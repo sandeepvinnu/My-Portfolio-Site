@@ -1,4 +1,4 @@
-![Sandeep Kumar - Portfolio site](img/Sandeep-Personal-portfolio-site.jpg)
+![Sandeep Kumar - Portfolio site](img/Sandeep-portfolio.jpg)
 
 <br/>
 
