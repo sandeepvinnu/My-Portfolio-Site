@@ -63,4 +63,10 @@ I am Sandeep Kumar, born and bought up Andhra pradesh. I have done my schooling 
 <br/>
 <br/>
 
+## The following template resources are available
+1) [Atul Prajapati](https://atulcodex.myinstamojo.com/)
+
+<br/>
+<br/>
+
 [![Sandeep - Buy Me A Coffee](https://i.ibb.co/7rR9S4L/buy-me-a-coffee.png)](https://www.buymeacoffee.com/sandeepkumar29)
