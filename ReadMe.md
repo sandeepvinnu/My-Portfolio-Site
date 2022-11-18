@@ -2,7 +2,7 @@
 
 <br/>
 
-I am B.Sandeep Kumar, born and bought up Andhra pradesh currently living in Telangana. I have done my schooling from kendriya vidyalaya sangathan School in Vijayawada. I have done my intermediate from sri Gayatri junior college. Talking about my family, my family consists of three members including me, my mother and my elder brother. My Interests are playing Chess and Learning new things. My ultimate goal is to be a Full Stack Developer.
+I am B.Sandeep Kumar, born and bought up Andhra pradesh and currently living in Telangana. I have done my schooling from kendriya vidyalaya sangathan School in Vijayawada. I have done my intermediate from sri Gayatri junior college. Talking about my family, my family consists of three members including me, my mother and my elder brother. My Interests are playing Chess and Learning new things. My ultimate goal is to be a Full Stack Developer.
 
 <br/>
 
