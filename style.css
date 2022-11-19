@@ -418,9 +418,9 @@ section
     background-image: linear-gradient(135deg,#c32aa3 30%,#0a3d62 50%);
 }
 
-.fa-github::before
+.fa-github-git::before
 {
-    background-image: linear-gradient(135deg,#00b200 60%,#0a3d62 50%);
+    background-image: linear-gradient(135deg,#00b200 30%,#0a3d62 50%);
 }
 
 .fa-linkedin-in::before
