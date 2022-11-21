@@ -20,7 +20,6 @@ I am B.Sandeep Kumar, born and bought up Andhra pradesh and currently living in 
 * 🔥 Crossover Browsers Compatibility 
 * 🔥 Detailed documentation 
 * 🔥 Easy Customization 
-* 🔥 Ready-made real content (No lorem ipsum) 
 * 🔥 Cross Browser Compatible 
 * 🔥 Friendly 5 stars Support 24/7
 * 🔥 Working Contact form
